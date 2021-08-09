@@ -1,0 +1,4 @@
+requests-cache
+requests-html
+sqlite-utils
+tqdm
